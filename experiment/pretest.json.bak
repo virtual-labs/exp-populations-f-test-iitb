@@ -1,0 +1,38 @@
+[
+   {
+      "question": "The F test is used to compare",
+      "qid": 1,
+      "option_a": "Two variances from dependent samples",
+      "option_b": "Two variances from independent samples",
+      "option_c": "Two means from dependent samples",
+      "option_d": "Two means from independent samples",
+      "correct_option": "b"
+   },
+   {
+      "question": "The F test is based on the ratio of",
+      "qid": 2,
+      "option_a": "Sample mean and population mean",
+      "option_b": "Two sample variances",
+      "option_c": "Two sample means",
+      "option_d": "Two population variances",
+      "correct_option": "b"
+   },
+   {
+      "question": "In a research study, the effect of three independent variables such as gender, socioeconomic status of the family and locus of control on scholastic performance in social studies was to be ascertained. The dependnent variable was measured using an interval scale. Which of the following statistical techniques will be considered appropriate for this data?",
+      "qid": 3,
+      "option_a": "F test",
+      "option_b": "H test",
+      "option_c": "t test",
+      "option_d": "Z test",
+      "correct_option": "a"
+   },
+   {
+      "question": "To test the equality of two population variances, the following test is to be applied",
+      "qid": 4,
+      "option_a": "F test",
+      "option_b": "Chi square test",
+      "option_c": "t test",
+      "option_d": "Z test",
+      "correct_option": "a"
+   }
+]

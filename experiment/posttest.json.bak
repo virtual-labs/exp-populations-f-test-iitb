@@ -1,0 +1,38 @@
+[
+   {
+      "question": "The numerator degrees of freedom in the F test represents",
+      "qid": 1,
+      "option_a": "Degrees of freedom of sample mean",
+      "option_b": "Degrees of freedom of sample variance",
+      "option_c": "Degrees of freedom of the numerator ratio of sample variances",
+      "option_d": "Degrees of freedom of the denominator ratio of sample variances",
+      "correct_option": "c"
+   },
+   {
+      "question": "In F test if calculated F statistic is greater than critical value, what can be concluded?",
+      "qid": 2,
+      "option_a": "Reject the null Hypothesis",
+      "option_b": "Accept the null Hypothesis",
+      "option_c": "The test is inconclusive",
+      "option_d": "Cannot make a conclusion",
+      "correct_option": "a"
+   },
+   {
+      "question": "F test is also called as",
+      "qid": 3,
+      "option_a": "Z test",
+      "option_b": "Variance ratio test",
+      "option_c": "Standard error test",
+      "option_d": "Man Whitney U test",
+      "correct_option": "b"
+   },
+   {
+      "question": "In F test if the null hypothesis is true what would be the expected value of the F statistic?",
+      "qid": 4,
+      "option_a": "cannot be determined",
+      "option_b": "Closed to 0",
+      "option_c": "Closed to 1",
+      "option_d": "Greater than 1",
+      "correct_option": "c"
+   }
+]

@@ -1,1 +1,1 @@
-## Experiment name
+## Hypothesis testing: Comparing variance of two populations (F test)
